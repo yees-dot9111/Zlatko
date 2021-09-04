@@ -6,5 +6,5 @@
 * Prison life
 
 Suggest games expect, Arsenal and phantom forces, because they are being work on currently!
-UI libary is going to be dropped onec ethe discrod the server reaches 250 members.
-
+# Update Logs
+* Zlatko is currently being reconstructed!
