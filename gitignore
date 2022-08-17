@@ -14,14 +14,6 @@ print("
 
 
 
-
-
-
-
-
-
-
-
 if game.PlaceId == 2753915549 then -- Blox Fruits
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI"))()
 	wait(0)
