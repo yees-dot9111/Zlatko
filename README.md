@@ -5,10 +5,10 @@
 
 # Supported Games
 
-*Da hood
-*Funky Friday
-*Phantom Forces
-*Arsenal
-*Blox Fruits
-*Bedways
-*Murder Mystery 2
+* Da hood
+* Funky Friday
+* Phantom Forces
+* Arsenal
+* Blox Fruits
+* Bedways
+* Murder Mystery 2
